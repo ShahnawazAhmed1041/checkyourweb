@@ -246,7 +246,7 @@ export default function Home() {
         <section id="analyze-website" className="relative pt-24 pb-20 px-4 sm:px-6 max-w-4xl mx-auto text-center scroll-mt-28">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-50/90 border border-blue-200/80 text-blue-700 text-xs font-semibold mb-6 shadow-xs">
             <Sparkles className="w-3.5 h-3.5 text-blue-600 animate-pulse" />
-            CheckYourWeb — Open Book Website Audit for Everyone
+            CheckYourWeb — Open Book Website Audit for Everyone.
           </div>
           
           <h1 className="text-4xl sm:text-6xl font-black tracking-tight text-slate-950 mb-6 leading-[1.12]">
