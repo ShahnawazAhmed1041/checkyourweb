@@ -265,7 +265,7 @@ export default function Home() {
               <Globe className="w-5 h-5 text-slate-400 mr-3 flex-shrink-0" />
               <input
                 type="text"
-                placeholder="Enter any website (e.g. dandyfilms.co.za)"
+                placeholder="Enter any website (e.g. https://sewpatches.com/)"
                 value={url}
                 onChange={(e) => setUrl(e.target.value)}
                 className="w-full bg-transparent text-slate-900 placeholder:text-slate-400 text-sm sm:text-base focus:outline-none font-medium"
